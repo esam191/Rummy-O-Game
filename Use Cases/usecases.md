@@ -6,3 +6,4 @@ As a user, I want to be able to use this platform. I provide my details and the 
 As a player, I want to invite my friends and create a game room where we can play. I want to start a game and create a room and give the invite link to my friends so they can join.
 
 ## Joining a Game Room
+As a secondary player, I will be able to join a existing room created by the primary player.This will allow me to edit the room. 
