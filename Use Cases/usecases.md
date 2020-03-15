@@ -18,6 +18,7 @@ When the game starts, each player has to be able to make an initial meld of 25 p
 //add here
 
 ## Ending the Game
+The room server is responsible to end the game. The server ends the round when a player has no tile left in their hand. 
 
 //add here
 
