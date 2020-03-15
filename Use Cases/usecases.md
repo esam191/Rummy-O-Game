@@ -10,3 +10,17 @@ As a secondary player, I will be able to join an existing room created by the pr
 
 ## Starting the Game
 As a user, I want to to be able to start the game once I have logged in. I should be able to choose starting player then the rest of the players can start playing the game. The server distributes and shuffles the tiles prior to playing the game.
+
+## Make Initial Meld
+
+//add here
+
+## Play Turn
+
+//add here
+
+## Ending the Game
+
+//add here
+
+## // include more use cases here if needed
