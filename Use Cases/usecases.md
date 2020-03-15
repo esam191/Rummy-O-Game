@@ -12,9 +12,7 @@ As a secondary player, I will be able to join an existing room created by the pr
 As a user, I want to to be able to start the game once I have logged in. I should be able to choose starting player then the rest of the players can start playing the game. The server distributes and shuffles the tiles prior to playing the game.
 
 ## Make Initial Meld
-
-//add here
-
+When the game starts, each player has to be able to make an initial meld of 25 points. If the player does not have enough tiles to make an initial meld, he or she then takes one tile from the remaining and adds it to his or her collection. 
 ## Play Turn
 
 //add here
