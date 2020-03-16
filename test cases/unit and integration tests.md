@@ -17,4 +17,7 @@ TU11 | Test boundary conditions to ensure that the module operates properly at b
 TU12 | Test data flow across each component interface | Data enters and exits properly 
 TU13 | Test to execute each and every error-handling path unit | Path executes with no error 
 TU14 | Ensure error description provides enough information to assist in the location of the cause of the error. | Error description is intelligible
-TI15 |
+TI15 | Check the interface link between the Login and Room module | To be directed to the Room box after the user logs in  
+TI16 | Check the interface link between the create/join room box and Room Module | Player should have an option to create or join room 
+TI17 | Verifying the interface link between the home page and the game page | Gameplay table screen should open up once joined room
+TI18 |
