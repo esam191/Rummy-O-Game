@@ -7,3 +7,9 @@ TU01 | Check response on entering valid User Id & Password |Login should be succ
 TU02 | Check response on entering Invalid User ID & Password | Login should be unsuccessful
 TU03 | Check the response when a User ID is Empty & Login Button is pressed, and similar |Prompt for reentry
 TU04 |Ensure that each room created by the players has a maximum of 4 players |  Room has up to 4 players
+TU05 | Ensure that the game only starts when a room has  a minimum of 2 players and a maximum of 4 players | Game starts with 2 -4 players
+TU06 |Check for the transfer of data between classes | Data is transferable 
+TU07 | Check response on forming an initial meld | Must have a minimum of 25 points 
+TU08 | Check response on forming a meld | Must be either a set or a run  
+TU09 | Examine all local data structures to test temporarily stored data and algorithms | Temporarily stored data maintains its integrity during all steps in an algorithm’s execution
+TU10 |
