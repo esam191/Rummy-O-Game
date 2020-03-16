@@ -12,8 +12,8 @@ TU06 | Check for the transfer of data between classes | Data is transferable
 TU07 | Check response on forming an initial meld | Must have a minimum of 25 points 
 TU08 | Check response on forming a meld | Must be either a set or a run  
 TU09 | Examine all local data structures to test temporarily stored data and algorithms | Temporarily stored data maintains its integrity during all steps in an algorithm’s execution
-TU10 | Check all independent paths through the control structure to ensure that all statements in a module have been executed at least once. | All statements are executed at least once 
-TU11 | Test boundary conditions to ensure that the module operates properly at boundaries established to restrict processing. | Module operates correctly
+TU10 | Check all independent paths through the control structure to ensure that all statements in the Room module have been executed at least once. | All statements are executed at least once 
+TU11 | Test boundary conditions to ensure that the Room module operates properly at boundaries established to restrict processing. | Module operates correctly
 TU12 | Test data flow across each component interface | Data enters and exits properly 
 TU13 | Test to execute each and every error-handling path unit | Path executes with no error 
 TU14 | Ensure error description provides enough information to assist in the location of the cause of the error. | Error description is intelligible
