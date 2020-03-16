@@ -20,4 +20,6 @@ TU14 | Ensure error description provides enough information to assist in the loc
 TI15 | Check the interface link between the Login and Room module | To be directed to the Room box after the user logs in  
 TI16 | Check the interface link between the create/join room box and Room Module | Player should have an option to create or join room 
 TI17 | Verifying the interface link between the home page and the game page | Gameplay table screen should open up once joined room
-TI18 |
+TI18 | Verifying the interface link in the gameplay screen between pause/resume and quit box | To be directed back to homepage if quit button is clicked
+TI19 | Check the response when each turn is played |Moves on to the next player if current turn either adds to the table or pick up a tile
+TI20 | Check the response when player runs out of tiles | Game ended and winner is declared
