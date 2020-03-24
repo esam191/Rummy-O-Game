@@ -197,7 +197,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_1_64x64_9.png":
+		"white9.png":
 		{
 			"frame": {"x":256,"y":256,"w":64,"h":64},
 			"rotated": false,
@@ -205,7 +205,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_2_64x64_1.png":
+		"yellow1.png":
 		{
 			"frame": {"x":320,"y":0,"w":64,"h":64},
 			"rotated": false,
@@ -213,7 +213,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_2_64x64_2.png":
+		"yellow2.png":
 		{
 			"frame": {"x":320,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -221,7 +221,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_2_64x64_3.png":
+		"yellow3.png":
 		{
 			"frame": {"x":320,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -229,7 +229,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_2_64x64_4.png":
+		"yellow4.png":
 		{
 			"frame": {"x":320,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -237,7 +237,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_2_64x64_5.png":
+		"yellow5.png":
 		{
 			"frame": {"x":320,"y":256,"w":64,"h":64},
 			"rotated": false,
@@ -245,7 +245,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_2_64x64_6.png":
+		"yellow6.png":
 		{
 			"frame": {"x":0,"y":320,"w":64,"h":64},
 			"rotated": false,
@@ -253,7 +253,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_2_64x64_7.png":
+		"yellow7.png":
 		{
 			"frame": {"x":64,"y":320,"w":64,"h":64},
 			"rotated": false,
@@ -261,7 +261,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_2_64x64_8.png":
+		"yellow8.png":
 		{
 			"frame": {"x":128,"y":320,"w":64,"h":64},
 			"rotated": false,
@@ -269,7 +269,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_2_64x64_9.png":
+		"yellow9.png":
 		{
 			"frame": {"x":192,"y":320,"w":64,"h":64},
 			"rotated": false,
@@ -277,7 +277,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_3_64x64_1.png":
+		"green1.png":
 		{
 			"frame": {"x":256,"y":320,"w":64,"h":64},
 			"rotated": false,
@@ -285,7 +285,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_3_64x64_2.png":
+		"green2.png":
 		{
 			"frame": {"x":320,"y":320,"w":64,"h":64},
 			"rotated": false,
@@ -293,7 +293,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_3_64x64_3.png":
+		"green3.png":
 		{
 			"frame": {"x":384,"y":0,"w":64,"h":64},
 			"rotated": false,
@@ -301,7 +301,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_3_64x64_4.png":
+		"green4.png":
 		{
 			"frame": {"x":384,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -309,7 +309,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_3_64x64_5.png":
+		"green5.png":
 		{
 			"frame": {"x":384,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -317,7 +317,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_3_64x64_6.png":
+		"green6.png":
 		{
 			"frame": {"x":384,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -325,7 +325,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_3_64x64_7.png":
+		"green7.png":
 		{
 			"frame": {"x":384,"y":256,"w":64,"h":64},
 			"rotated": false,
@@ -333,7 +333,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_3_64x64_8.png":
+		"green8.png":
 		{
 			"frame": {"x":384,"y":320,"w":64,"h":64},
 			"rotated": false,
@@ -341,7 +341,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_3_64x64_9.png":
+		"green9.png":
 		{
 			"frame": {"x":0,"y":384,"w":64,"h":64},
 			"rotated": false,
@@ -349,7 +349,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_4_64x64_1.png":
+		"blue1.png":
 		{
 			"frame": {"x":64,"y":384,"w":64,"h":64},
 			"rotated": false,
@@ -357,7 +357,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_4_64x64_2.png":
+		"blue2.png":
 		{
 			"frame": {"x":128,"y":384,"w":64,"h":64},
 			"rotated": false,
@@ -365,7 +365,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_4_64x64_3.png":
+		"blue3.png":
 		{
 			"frame": {"x":192,"y":384,"w":64,"h":64},
 			"rotated": false,
@@ -373,7 +373,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_4_64x64_4.png":
+		"blue4.png":
 		{
 			"frame": {"x":256,"y":384,"w":64,"h":64},
 			"rotated": false,
@@ -381,7 +381,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_4_64x64_5.png":
+		"blue5.png":
 		{
 			"frame": {"x":320,"y":384,"w":64,"h":64},
 			"rotated": false,
@@ -389,7 +389,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_4_64x64_6.png":
+		"blue6.png":
 		{
 			"frame": {"x":384,"y":384,"w":64,"h":64},
 			"rotated": false,
@@ -397,7 +397,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_4_64x64_7.png":
+		"blue7.png":
 		{
 			"frame": {"x":448,"y":0,"w":64,"h":64},
 			"rotated": false,
@@ -405,7 +405,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_4_64x64_8.png":
+		"blue8.png":
 		{
 			"frame": {"x":448,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -413,7 +413,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_4_64x64_9.png":
+		"blue9.png":
 		{
 			"frame": {"x":448,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -421,7 +421,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_5_64x64_0.png":
+		"joker.png":
 		{
 			"frame": {"x":448,"y":192,"w":64,"h":64},
 			"rotated": false,
