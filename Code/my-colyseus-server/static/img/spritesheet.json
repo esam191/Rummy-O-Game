@@ -45,7 +45,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"yellowj.png":
+		"yellow10.png":
 		{
 			"frame": {"x":128,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -53,7 +53,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"yellowk.png":
+		"yellow12.png":
 		{
 			"frame": {"x":0,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -61,7 +61,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"yellowq.png":
+		"yellow11.png":
 		{
 			"frame": {"x":64,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -69,7 +69,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"greena.png":
+		"green13.png":
 		{
 			"frame": {"x":128,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -77,7 +77,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"greenj.png":
+		"green10.png":
 		{
 			"frame": {"x":192,"y":0,"w":64,"h":64},
 			"rotated": false,
@@ -85,7 +85,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"greenk.png":
+		"green12.png":
 		{
 			"frame": {"x":192,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -93,7 +93,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"greenq.png":
+		"green11.png":
 		{
 			"frame": {"x":192,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -101,7 +101,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"bluea.png":
+		"blue13.png":
 		{
 			"frame": {"x":0,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -109,7 +109,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"bluej.png":
+		"blue10.png":
 		{
 			"frame": {"x":64,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -117,7 +117,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"bluek.png":
+		"blue12.png":
 		{
 			"frame": {"x":128,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -125,7 +125,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"blueq.png":
+		"blue11.png":
 		{
 			"frame": {"x":192,"y":192,"w":64,"h":64},
 			"rotated": false,
