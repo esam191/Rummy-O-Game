@@ -5,7 +5,7 @@
 		"scale": "1"
 	},
 	"frames": {
-		"Letter_Blocks_01_Set_1_A_64x64.png":
+		"white13.png":
 		{
 			"frame": {"x":0,"y":0,"w":64,"h":64},
 			"rotated": false,
@@ -13,7 +13,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_1_J_64x64.png":
+		"white10.png":
 		{
 			"frame": {"x":64,"y":0,"w":64,"h":64},
 			"rotated": false,
@@ -21,7 +21,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_1_K_64x64.png":
+		"white12.png":
 		{
 			"frame": {"x":0,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -29,7 +29,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_1_Q_64x64.png":
+		"white11.png":
 		{
 			"frame": {"x":64,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -37,7 +37,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_2_A_64x64.png":
+		"yello13.png":
 		{
 			"frame": {"x":128,"y":0,"w":64,"h":64},
 			"rotated": false,
@@ -45,7 +45,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_2_J_64x64.png":
+		"yellowj.png":
 		{
 			"frame": {"x":128,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -53,7 +53,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_2_K_64x64.png":
+		"yellowk.png":
 		{
 			"frame": {"x":0,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -61,7 +61,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_2_Q_64x64.png":
+		"yellowq.png":
 		{
 			"frame": {"x":64,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -69,7 +69,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_3_A_64x64.png":
+		"greena.png":
 		{
 			"frame": {"x":128,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -77,7 +77,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_3_J_64x64.png":
+		"greenj.png":
 		{
 			"frame": {"x":192,"y":0,"w":64,"h":64},
 			"rotated": false,
@@ -85,7 +85,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_3_K_64x64.png":
+		"greenk.png":
 		{
 			"frame": {"x":192,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -93,7 +93,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_3_Q_64x64.png":
+		"greenq.png":
 		{
 			"frame": {"x":192,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -101,7 +101,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_4_A_64x64.png":
+		"bluea.png":
 		{
 			"frame": {"x":0,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -109,7 +109,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_4_J_64x64.png":
+		"bluej.png":
 		{
 			"frame": {"x":64,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -117,7 +117,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_4_K_64x64.png":
+		"bluek.png":
 		{
 			"frame": {"x":128,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -125,7 +125,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Letter_Blocks_01_Set_4_Q_64x64.png":
+		"blueq.png":
 		{
 			"frame": {"x":192,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -133,7 +133,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_1_64x64_1.png":
+		"white1.png":
 		{
 			"frame": {"x":256,"y":0,"w":64,"h":64},
 			"rotated": false,
@@ -141,7 +141,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_1_64x64_2.png":
+		"white2.png":
 		{
 			"frame": {"x":256,"y":64,"w":64,"h":64},
 			"rotated": false,
@@ -149,7 +149,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_1_64x64_3.png":
+		"white3.png":
 		{
 			"frame": {"x":256,"y":128,"w":64,"h":64},
 			"rotated": false,
@@ -157,7 +157,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_1_64x64_4.png":
+		"white4.png":
 		{
 			"frame": {"x":256,"y":192,"w":64,"h":64},
 			"rotated": false,
@@ -165,7 +165,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_1_64x64_5.png":
+		"white5.png":
 		{
 			"frame": {"x":0,"y":256,"w":64,"h":64},
 			"rotated": false,
@@ -173,7 +173,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_1_64x64_6.png":
+		"white6.png":
 		{
 			"frame": {"x":64,"y":256,"w":64,"h":64},
 			"rotated": false,
@@ -181,7 +181,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_1_64x64_7.png":
+		"white7.png":
 		{
 			"frame": {"x":128,"y":256,"w":64,"h":64},
 			"rotated": false,
@@ -189,7 +189,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 			"sourceSize": {"w":64,"h":64}
 		},
-		"Number_Blocks_01_Set_1_64x64_8.png":
+		"white8.png":
 		{
 			"frame": {"x":192,"y":256,"w":64,"h":64},
 			"rotated": false,
