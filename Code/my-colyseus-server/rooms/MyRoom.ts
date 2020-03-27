@@ -1,12 +1,14 @@
 import { Room, Client } from "colyseus";
 import { Schema, type, MapSchema } from "@colyseus/schema"
 import {State} from "./src/State";
+import { Tile } from "./src/Tile";
 export class RummyO extends Room<State> {
   clientHeight: number= 0;
   clientWidth: number= 0;
   onCreate (options: any) {
     this.setState(new State ());
     this.state.initalize();
+
   }
 
   onJoin (client: Client, options: any) {
@@ -21,9 +23,14 @@ export class RummyO extends Room<State> {
   onMessage (client: Client, message: any) {
     console.log(message);
     if (message === "sendHand") {
-      // broadcast a message to all clients
       this.send(client, {data: this.state.players[client.sessionId].hand, message: "initialHand"});
-  }
+    }
+    if (message.request === "addToBoard"){
+      let data = message.data;
+      let tempTile = new Tile(data.x, data.y, data.color, data.value);
+      this.state.addToBoard(tempTile);
+      console.log(this.state.board);
+    }
   }
 
   onLeave (client: Client, consented: boolean) {

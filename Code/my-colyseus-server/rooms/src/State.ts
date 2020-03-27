@@ -6,8 +6,8 @@ import {Player} from "./Player";
 var mynid = require('nid')({length:8});
 
 export class State extends Schema {
-    @type({map: Collection})
-    board = new MapSchema<Collection>();
+    @type({map: Tile})
+    board = new MapSchema<Tile>();
     @type({map: Player})
     players = new MapSchema<Player>();
     fullDeck: {[key: string]: Tile}= {};
@@ -23,7 +23,7 @@ export class State extends Schema {
         }
     }
     addToBoard(tile: Tile){
-
+        this.board[mynid()] = tile;
     }
     drawTile(height: number, width:number):Tile {
         //Randomly select an existing key.
@@ -46,7 +46,7 @@ export class State extends Schema {
 
     createPlayer(sessionId: string){
         this.players[sessionId] = new Player();
-        console.log(sessionId+" joined!");
+        console.log(sessionId+" joined! Should send an onAdd to client.");
 
     }
 }
