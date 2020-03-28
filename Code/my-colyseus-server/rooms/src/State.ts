@@ -21,9 +21,19 @@ export class State extends Schema {
                 this.fullDeck[mynid()] = new Tile(0,0,colors[i],values[j]);
             }
         }
+        // console.log("Initial Tiles: ");
+        // console.log(this.fullDeck);
     }
     addToBoard(tile: Tile){
         this.board[mynid()] = tile;
+    }
+    updateLocation(key: string, x: number, y: number){
+        this.board[key].x = x;
+        this.board[key].y = y;
+        console.log('updated the location to x = '+ x + " y = "+ y);
+    }
+    removeFromBoard(key: string){
+        delete this.board[key];
     }
     drawTile(height: number, width:number):Tile {
         //Randomly select an existing key.
@@ -42,6 +52,8 @@ export class State extends Schema {
         for (let i = 0; i<14; i++){
             this.players[sessionId].hand[mynid()] = this.drawTile(height, width);
         }
+        // console.log("After Dealing: ")
+        // console.log(this.fullDeck);
     }
 
     createPlayer(sessionId: string){

@@ -31,6 +31,12 @@ export class RummyO extends Room<State> {
       this.state.addToBoard(tempTile);
       console.log(this.state.board);
     }
+    if (message.request === "updateLocation"){
+      this.state.updateLocation(message.key, message.ux, message.uy);
+    }
+    if (message.request === "addBackToHand"){
+      this.state.removeFromBoard(message.key);
+    }
   }
 
   onLeave (client: Client, consented: boolean) {
