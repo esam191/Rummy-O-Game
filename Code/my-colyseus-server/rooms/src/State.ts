@@ -56,6 +56,7 @@ export class State extends Schema {
         // console.log(this.fullDeck);
     }
 
+    //creates new player with session id
     createPlayer(sessionId: string){
         this.players[sessionId] = new Player();
         console.log(sessionId+" joined! Should send an onAdd to client.");
