@@ -7,9 +7,11 @@ export class RummyO extends Room<State> {
   clientWidth: number= 0;
   onCreate (options: any) {
     this.setState(new State ());
+    //creates new deck
     this.state.initalize();
   }
 
+  //once joined new player is created
   onJoin (client: Client, options: any) {
     this.state.createPlayer(client.sessionId);
     this.clientHeight = options.height;
@@ -18,6 +20,7 @@ export class RummyO extends Room<State> {
     // console.log(this.state.drawTile());
 
   }
+
   onMessage (client: Client, message: any) {
     console.log(message);
     if (message === "sendHand") {
@@ -36,6 +39,7 @@ export class RummyO extends Room<State> {
     if (message.request === "updateLocation"){
       this.state.updateLocation(message.key, message.ux, message.uy);
     }
+    // if players takes tile back to hand
     if (message.request === "addBackToHand"){
       let color = message.color;
       let value = message.value;
