@@ -24,8 +24,8 @@ export class State extends Schema {
         // console.log("Initial Tiles: ");
         // console.log(this.fullDeck);
     }
-    addToBoard(tile: Tile){
-        this.board[mynid()] = tile;
+    addToBoard(tile: Tile, key: string){
+        this.board[key] = tile;
     }
     updateLocation(key: string, x: number, y: number){
         this.board[key].x = x;

@@ -9,7 +9,7 @@ import { monitor } from "@colyseus/monitor";
 import { RummyO } from "./rooms/MyRoom";
 
 const port = Number(process.env.PORT || 2567);
-const app = express()
+const app = express();
 
 app.use(cors());
 app.use(express.json())
