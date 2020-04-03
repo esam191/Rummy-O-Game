@@ -12,3 +12,6 @@ There are seven classes:
 6. Hand
 7. Tile Set
 
+Our sequence diagram shows how messages between objects are exchanged in order to carry out the functionality of the game.
+
+We have also included the design review checklist which inspects on the completeness and correctness, consistency and traceability of our design. It checks if the relationship between the components are explicitly documented including if the designs were described clear and traceable to the requirements.
