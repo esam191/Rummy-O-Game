@@ -1,6 +1,19 @@
+Welcome to the Rummy-O game repository! Below is a short overview of our project followed by instructions on how to deploy and execute the code.
+
 ### Rummy-O game
 A game similar to the rummy game where we play with tiles instead of cards. It is a mind game which excercises your memory and tests your mathematical ingenuity. This game teaches you how to be prudent and not act impulsively. Four players can play the game and each player takes 14 tiles. Each set must have atleast three tiles of the same number from different colour also play three or more tiles with consecutive numbers in the same colour. The number on the tile is its value.
 The aim of the game is to be the first person to play out all your tiles by grouping them into sets.
+
+### Product Deployment
+
+Instructions on how to deploy and execute the game
+
+A. Access the game directly by clicking on the following link:
+________________________________________
+
+B.  1. Download / Clone the Repo,
+    2. 
+
 
 #### Table of Contents
 
