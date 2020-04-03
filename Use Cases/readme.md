@@ -1,3 +1,1 @@
-Deposit your use cases in this folder.
-Note: These would have been defined in Lab 2.
-
+This folder contains all the use cases which defines the interaction between the actor and the system to achieve a goal. The actor can be a human or an external system.
