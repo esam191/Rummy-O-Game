@@ -1,2 +1,1 @@
-Deposit your requirements in this folder.
-Note: These would have been defined in Lab 1.
+This folder contains the stakeholders requirements which was initially captured as user stories which is then interpreted into a set of formal requirements in accordance with the Unified process design approach.
