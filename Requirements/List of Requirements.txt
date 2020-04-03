@@ -1,0 +1,51 @@
+﻿Tabular List Of Requirements
+
+
+Requirement #
+	Priority Level
+	Description
+	 Req-001
+	10.0
+	Product is a Web-based multiplayer game
+	Req-002
+	7.0
+	Central Player and Room Database
+	Req-003 
+	10.0
+	Game follows rules described in the Rummy-O section
+	Req-004
+	8.0
+	Players must be able to place tiles on the board by dragging and dropping
+	Req-005
+	9.0
+	Players must be able to create room containing 2-4 players
+	Req-006
+	9.0
+	Players must be able to join the room with a unique code
+	Req-007
+	8.0
+	System must recognize and organize melds formed by players
+	Req-008
+	6.0
+	Player profiles with saved experience
+	Req-009
+	5.0
+	Global permission system to pause gameplay
+	Req-010
+	7.0
+	Game layout must include a quit option
+	Req-011
+	5.0
+	Every room must have a chat-box for players
+	Req-012
+	7.0
+	Every turn must take no more than 30 seconds
+	Req-013
+	4.0
+	Must be able to rejoin if server gets disconnected
+	Req-014
+	2.0
+	Players customize the look and feel of the board
+	Req-015
+	3.0
+	System must allow players to retrieve points after connection is lost
