@@ -11,14 +11,16 @@ Instructions on how to deploy and execute the game
 A. Access the game directly by clicking on the following link:
 ________________________________________
 
-B.  1. Download / Clone the Repo
-    2. Find and locate the path of you folder directory in your terminal (command prompt for windows)
-    3. Complete the npm installation : npm install
-    4. Start it with : npm start
-       It should give you this link : ws://localhost://2567 
-    5. Now turn your local server on (using WampServer is recommended)
-    6. Copy and Paste http://localhost:2567/ on your local browser
-    7. Connect with your friends (max: 4 players) and enjoy the game!
+B. 
+
+1. Download / Clone the Repo
+2. Find and locate the path of you folder directory in your terminal (command prompt for windows)
+3. Complete the npm installation : npm install
+4. Start it with : npm start
+   It should give you this link : ws://localhost://2567 
+5. Now turn your local server on (using WampServer is recommended)
+6. Copy and Paste http://localhost:2567/ on your local browser
+7. Connect with your friends (max: 4 players) and enjoy the game!
 
 
 #### Table of Contents
