@@ -41,12 +41,6 @@ The Code/my-colyseus-server folder contains the following files:
 * package.json
 * tsconfig.json
 
-##### - Design
-The Design folder contains all the design artifacts of the RummyO game. It includes the following files:
-* UML Class.pdf - class diagram provides us with the structure of the game by showing the relationship among objects. 
-* UML Sequence diagram.pdf - shows the functionality of the game
-* design_review_checklist.doc - inspects on the completeness and correctness, consistency and traceability of our design
-
 ##### - Requirements
 The folder contains the stakeholders requirement for this project. It contains the following files:
 
@@ -58,10 +52,16 @@ It contains all the use cases which defines the interaction between the actor an
 * List of Requirements.pdf - contains a tabular list of requirements in a priority order (highest to lowest).
 * Use case diagram.pdf - specifies the expected behavior and not the method of making it happen.
 
+##### - Design
+The Design folder contains all the design artifacts of the RummyO game. It includes the following files:
+* UML Class.pdf - class diagram provides us with the structure of the game by showing the relationship among objects. 
+* UML Sequence diagram.pdf - shows the functionality of the game
+* design_review_checklist.doc - inspects on the completeness and correctness, consistency and traceability of our design
+
 ##### - test cases
-
-
-
+The test case folder contain all the diffferent type of test of teh RummyO game. It include the following files:
+* Unit and Integration tets.pdf/.md - In this file there are list of all the tets cases and the expected results of the test cases.
+* Test case report.pdf - shows the result of the test cases bases of the test of the RummyO game and how the game meets the Use Cases criteria. 
 
 ##### - prototype demo 
 This pdf contains images on how our prototype looks when it runs.
