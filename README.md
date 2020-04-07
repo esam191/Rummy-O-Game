@@ -21,6 +21,7 @@ B. Second alternative
 5. Now turn your local server on (using WampServer is recommended)
 6. Copy and Paste http://localhost:2567/ on your local browser
 7. Connect with your friends (max: 4 players) and enjoy the game!
+NOTE. open the link four times to connect with 4 other players 
 
 
 ### Table of Contents
